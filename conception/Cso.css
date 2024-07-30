@@ -4,10 +4,6 @@
     padding: 0;
     margin: 0;
 }
-:root{
-
-
-}
 
 body{
     background-color:#fff;
@@ -73,7 +69,6 @@ body{
     text-align: right;
     font-style: italic;
     color: #fff;
-   
 }
 
 .list{
@@ -93,9 +88,9 @@ body{
     justify-content: space-between;
     align-items: center;
     background-color: #18181b;
-    list-style: none;
-    
+    list-style: none;  
 }
+
 .section1{
     
     background-image:url(img/ps5-noire-2.jpg) ;
@@ -112,9 +107,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 200px;
-    
-    
+    padding: 200px; 
 }
 
 .text p{
@@ -182,3 +175,13 @@ body{
     justify-content: center;
 }
 
+.btn3{
+    padding: 7px;
+    margin: 6px;
+    border-radius: 5px;
+    background-color: transparent;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
