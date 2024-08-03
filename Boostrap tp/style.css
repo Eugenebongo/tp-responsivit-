@@ -1,0 +1,57 @@
+.body{
+    padding: 20px !important;
+    font-family: 'Times New Roman', Times, serif !important;
+}
+
+/* partie en-tete */
+.container-fluid{
+    font-weight: bold;
+}
+
+.navbar-nav{
+    gap: 50px;
+}
+
+/* partie heros */
+.menu{
+    margin-top: 50px;
+    background-image: url(img/burger\ 1600.jpeg); height: 1000px; width: 1340px;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+    color: #fff;
+    font-weight: bold;
+    font-size: xxx-large;
+}
+/* partie menu */
+
+.container{
+    margin-top: 50px;
+}
+.container img {
+    max-width: 100%;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+   
+.container img:hover{
+    transform: scale(1.05);
+}
+
+/* partie À propos de nous */
+.grid{
+    margin-top: 100px;
+    padding: 50px;
+    gap: 50px;
+    font-weight: bold;
+    justify-items: center;
+    text-align: center;
+    justify-items: center;
+}
+
+/* partie formulaire */
+
+
+
+
+
